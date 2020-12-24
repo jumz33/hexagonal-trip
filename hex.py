@@ -16,7 +16,7 @@ truck_pos = [0, 0, 0]
 helicopter_rt = 0
 truck_rt = 0
 
-# commands for helicopter
+# helicopter
 for i in commands:
     # rotate left
     if i == 'l':
@@ -49,7 +49,6 @@ for i in commands:
 print(f'Helicopter position: {helicopter_pos}')
 
 # truck
-# A* algorithm
 while truck_pos != helicopter_pos:
     # change position
     pos_before = truck_pos[0], truck_pos[1], truck_pos[2]
