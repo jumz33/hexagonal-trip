@@ -88,4 +88,4 @@ while truck_pos != helicopter_pos:
     truck_pos[2] = truck_pos[0] + truck_pos[1]
 
     print(f'go to -> {truck_pos}')
-
+print('Finish')
