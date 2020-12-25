@@ -7,5 +7,3 @@ r - turn right;
 
 Example: fflfllfrf
 
-# Made by Jummiuzz33 | Version: 1.0
-
