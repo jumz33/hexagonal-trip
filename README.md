@@ -1,9 +1,5 @@
-An easy program to find the shortest way to goal coordinates in a hexagonal grid.
+# Problem
+User inputs some command sequence that controls a helicopter in a hexagonal grid. Program must output a command sequence for a truck finding the shortest way to the helicopter position
 
-# Controls:
-f - move forward;
-l - turn left;
-r - turn right;
-
-Example: fflfllfrf
-
+# Controls
+f - move forward; r - rotate right; l - rotate left
