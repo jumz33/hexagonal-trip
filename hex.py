@@ -12,7 +12,7 @@ truck_pos = [0, 0]
 helicopter_rt = 0
 truck_rt = 0
 
-# 1st face = [-1, 1], 2nd face = [-1, 1] and etc.
+# 1st face = [-1, 1], 2nd face = [-1, 0] and etc.
 faces = [
     [-1, 1], [-1, 0], [0, -1],
     [1, -1], [1, 0], [0, 1]
